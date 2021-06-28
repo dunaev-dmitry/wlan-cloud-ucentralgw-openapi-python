@@ -1,0 +1,25 @@
+# Device
+
+Definition of uCentral device
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**device_type** | [**DeviceType**](DeviceType.md) |  | 
+**owner** | **str** |  | [optional] 
+**location** | **str** |  | [optional] 
+**serial_number** | **str** |  | [optional] 
+**mac_address** | **str** |  | [optional] 
+**manufacturer** | **str** |  | [optional] 
+**uuid** | **int** |  | [optional] 
+**configuration** | **str** |  | [optional] 
+**notes** | **str** |  | [optional] 
+**created_timestamp** | **int** |  | [optional] 
+**last_configuration_change** | **int** |  | [optional] 
+**last_configuration_download** | **int** |  | [optional] 
+**firmware** | **str** |  | [optional] 
+**device_password** | **str** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
